@@ -1,28 +1,34 @@
 # Linux-Assignments:
 
 LAB 1:
-How to list the files of the current folder with a line of information?
-What are the command line editing options you can use?
-How to see the history of most recent commands?
-How to list all file that starts with alphabet “d” / all “.c” files?
-How “?” can be used for matching character in ls command?
+1.)How to list the files of the current folder with a line of information?
+
+2.)What are the command line editing options you can use?
+
+3.)How to see the history of most recent commands?
+
+4.)How to list all file that starts with alphabet “d” / all “.c” files?
+
+5.)How “?” can be used for matching character in ls command?
 
 LAB 2:
-Write a script to automate backup process
+.)Write a script to automate backup process
 
 LAB 3:
-System Monitoring
+1.)System Monitoring
 
 LAB 4:
- Write a shell script to raise an error message when a file name with special characters is created.
- Write a shell script to send an email stating "File Executed" whenever a particular file is executed.
+ 1.)Write a shell script to raise an error message when a file name with special characters is created.
+ 
+ 2.)Write a shell script to send an email stating "File Executed" whenever a particular file is executed.
  
 LAB 5:
-Debugging exercises
+1.)Debugging exercises
 
 LAB 6:
-Write system call programs to access file
-Write scripts for file permissions
+1.)Write system call programs to access file
+
+2.)Write scripts for file permissions
 
 LAB 7:
 FIND ERRORS IN THE FOLLOWING:
@@ -47,13 +53,13 @@ FIND ERRORS IN THE FOLLOWING:
    rm "$badname"
 
 LAB 8:
-Apply Echo on Debug and print the values of the variables in the sample programs given (In the previous presentation)
-Use tee command with debugtry1.sh (given in nextpage)
-Apply script flag options on all the sample programs
+1.)Apply Echo on Debug and print the values of the variables in the sample programs given (In the previous presentation)
+2.)Use tee command with debugtry1.sh (given in nextpage)
+3.)Apply script flag options on all the sample programs
 
 LAB 9:
-Process Management exercise
+1.)Process Management exercise
 
 LAB 10:
-Install sl
-Monitorig overall health of the system.
+1.)Install sl
+2.)Monitorig overall health of the system.
