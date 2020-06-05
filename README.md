@@ -75,4 +75,4 @@ LAB 10:
 
 1.)Install sl
 
-2.)Monitorig overall health of the system.
+2.)Monitoring overall health of the system.
